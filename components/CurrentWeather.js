@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
   },
   descText: {
     fontSize: 18,
-    color: "#80d8ff",
+    color: "#DE7A22",
     textAlign: "center",
     marginBottom: 15,
     fontStyle: "italic",
